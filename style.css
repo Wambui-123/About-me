@@ -18,7 +18,9 @@ h2{
     padding-top: 20px;
 }
 .info{
-    align-items: center;
+    text-align: center;
+    font-style: italic;
+    font-weight: 600;
 }
 .list ul li{
     font-style: italic;
