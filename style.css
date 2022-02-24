@@ -1,5 +1,10 @@
-.image img{
+#line .image img{
     width: 150px;
     height: 150px;
+    padding: 0px;
+    float: left;
 
+}
+#line .para{
+    float: right;
 }
