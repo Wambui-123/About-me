@@ -9,8 +9,8 @@ h2{
     color: white;
 }
 #line .image img{
-    width: 150px;
-    height: 150px;
+    width: 180px;
+    height: 180px;
     margin-left: 550px;
 
 }
@@ -21,6 +21,7 @@ h2{
     text-align: center;
     font-style: italic;
     font-weight: 600;
+    color: white;
 }
 .list ul li{
     font-style: italic;
