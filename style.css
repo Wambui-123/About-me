@@ -17,6 +17,9 @@ h2{
 #line .para{
     padding-top: 20px;
 }
+.info{
+    align-items: center;
+}
 .list ul li{
     font-style: italic;
 }
