@@ -15,3 +15,6 @@ h2{
 #line .para{
     padding-top: 20px;
 }
+.list ul li{
+    font-style: italic;
+}
