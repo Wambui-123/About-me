@@ -1,5 +1,5 @@
 body{
-    background-color: #e35d5d;
+    background-color: #acbdc2;
     font-size: 18px;
 }
 h2{
@@ -10,8 +10,7 @@ h2{
 #line .image img{
     width: 150px;
     height: 150px;
-    padding: 0px;
-    float: left;
+    margin-left: 550px;
 
 }
 #line .para{
