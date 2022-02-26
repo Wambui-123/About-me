@@ -1,6 +1,4 @@
 # About-me
-<<<<<<< HEAD
-*Author: Yvonne Wambui Muthui
 
 *Project link: https://github.com/Wambui-123/About-me
 
@@ -49,6 +47,6 @@ Copyright (c) 2022 Wambui-123
 For further information click on the file LICENSE in project directory.
 
  
->>>>>>> ffa2d49b09b39cb92b004a7fce5910bd197e3082
+
 
 
