@@ -1,9 +1,7 @@
 # About-me
 
-*Project link: https://github.com/Wambui-123/About-me
-
 Copyright (C)  2022 Yvonne
-=======
+
 by Yvonne Wambui Muthui.
 
 A simple wesite with HTML and CSS languages.
@@ -28,7 +26,9 @@ This website inludes personal information about myself. It includes my hobbies, 
 https://wambui-123.github.io/About-me/
 
 ## Link to other projects created
+[Link to Technology](https://wambui-123.github.io/Tech/)
 
+[Link to Pleo](https://yvonne-1-2-3.github.io/Pleo-CSS/)
 
 
 ## License 
