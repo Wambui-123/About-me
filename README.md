@@ -1,7 +1,5 @@
 # About-me
 
-Copyright (C)  2022 Yvonne
-
 by Yvonne Wambui Muthui.
 
 A simple wesite with HTML and CSS languages.
